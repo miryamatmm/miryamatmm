@@ -1,4 +1,7 @@
 ## Miryam Atamna
 
-Étudiante en première année de Master Informatique.  
-Ce compte regroupe une sélection de projets que j’ai pu réaliser au cours de mon parcours universitaire.
+Étudiante en 2ᵉ année de Master Informatique – spécialisation Data Science. 
+Interessé par l’analyse de données, l’IA et le développement logiciel.  
+
+Ce compte regroupe une sélection de projets réalisés durant mon parcours universitaire.
+
